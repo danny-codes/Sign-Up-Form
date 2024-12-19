@@ -39,7 +39,7 @@ This project is a **sign-up form** created as part of The Odin Project's **Inter
 
 1. Clone or download this repository.
 2. Open the `index.html` file in your browser to view the sign-up form.
-3. Or view the live version here: [Admin Dashboard on GitHub Pages](https://danny-codes.github.io/Sign-Up-Form/)
+3. Or view the live version here: [Sign Up Form on GitHub Pages](https://danny-codes.github.io/Sign-Up-Form/)
 
 ## Screenshot
 
