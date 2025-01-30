@@ -4,6 +4,8 @@ Hi 👋, I'm Daniel
 
 This is my submission for The Odin Project's **Sign-up Form** project.
 
+<a href='https://danny-codes.github.io/Sign-Up-Form/'>Live Version</a>
+
 ## Overview
 
 This project is a **sign-up form** created as part of The Odin Project's **Intermediate HTML and CSS** course. The goal was to replicate a design provided by the course, with a focus on layout structure, form styling, and user interface elements. The form includes fields for name, email, password, and confirm password.
@@ -16,11 +18,12 @@ This project is a **sign-up form** created as part of The Odin Project's **Inter
   - **Colors and Shadows**: Used for input borders and button styling.
 - **JavaScript** (for future validation improvement): Used to validate each input field separately.
 
-## 🦄 Tools & Technologies
+- ## 🦄 Tools & Technologies
+- **HTML5** <br> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
-- **HTML5**
-- **CSS3 (Vanilla CSS)**
-- **JavaScript** (for password validation, will be implemented in the future)
+- **CSS3 (Vanilla CSS)** <br> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+- **JavaScript** (for password validation, will be implemented in the future) <br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 ## Features
 
